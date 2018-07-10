@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: 8ee40e6a58d6d3e43aebcacc3ce74506
+timeCreated: 1531073318
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 105
+    100002: 106
+    100004: 107
+    100006: 108
+    100008: 110
+    100010: 115
+    100012: 116
+    100014: 118
+    100016: 135
+    100018: 136
+    100020: 154
+    100022: 155
+    100024: 158
+    100026: 159
+    100028: 160
+    100030: 161
+    100032: 177
+    100034: 178
+    100036: 190
+    100038: 33
+    100040: 34
+    100042: 35
+    100044: 73
+    100046: 74
+    100048: 75
+    100050: AeroR
+    100052: AreoL
+    100054: Bpit
+    100056: Canopy
+    100058: Center Fus
+    100060: cockpit
+    100062: cockpitb
+    100064: door1
+    100066: door2
+    100068: doorleft
+    100070: doorright
+    100072: ElderonL
+    100074: ElderonR
+    100076: ElevatorL
+    100078: ElevatorR
+    100080: ExaustL
+    100082: ExustR
+    100084: //RootNode
+    100086: flap2R
+    100088: flapL
+    100090: Fpit
+    100092: 'Fuel Tank '
+    100094: Fuel Tank0
+    100096: GPS
+    100098: Group01
+    100100: IntakeL
+    100102: IntakeL in
+    100104: IntakeR
+    100106: IntakeR in
+    100108: IntakeR Sc
+    100110: ligh
+    100112: lightleft
+    100114: lightright
+    100116: LPointLeft
+    100118: Nose
+    100120: Radio AF
+    100122: Radio IF
+    100124: RadioAnt3
+    100126: RudderL
+    100128: Ruddermai0
+    100130: Ruddermain
+    100132: RudderR
+    100134: Shape_01
+    100136: Spot01
+    100138: Spot01.target
+    100140: spur
+    100142: venttext
+    100144: wingleft
+    100146: wingright
+    400000: 105
+    400002: 106
+    400004: 107
+    400006: 108
+    400008: 110
+    400010: 115
+    400012: 116
+    400014: 118
+    400016: 135
+    400018: 136
+    400020: 154
+    400022: 155
+    400024: 158
+    400026: 159
+    400028: 160
+    400030: 161
+    400032: 177
+    400034: 178
+    400036: 190
+    400038: 33
+    400040: 34
+    400042: 35
+    400044: 73
+    400046: 74
+    400048: 75
+    400050: AeroR
+    400052: AreoL
+    400054: Bpit
+    400056: Canopy
+    400058: Center Fus
+    400060: cockpit
+    400062: cockpitb
+    400064: door1
+    400066: door2
+    400068: doorleft
+    400070: doorright
+    400072: ElderonL
+    400074: ElderonR
+    400076: ElevatorL
+    400078: ElevatorR
+    400080: ExaustL
+    400082: ExustR
+    400084: //RootNode
+    400086: flap2R
+    400088: flapL
+    400090: Fpit
+    400092: 'Fuel Tank '
+    400094: Fuel Tank0
+    400096: GPS
+    400098: Group01
+    400100: IntakeL
+    400102: IntakeL in
+    400104: IntakeR
+    400106: IntakeR in
+    400108: IntakeR Sc
+    400110: ligh
+    400112: lightleft
+    400114: lightright
+    400116: LPointLeft
+    400118: Nose
+    400120: Radio AF
+    400122: Radio IF
+    400124: RadioAnt3
+    400126: RudderL
+    400128: Ruddermai0
+    400130: Ruddermain
+    400132: RudderR
+    400134: Shape_01
+    400136: Spot01
+    400138: Spot01.target
+    400140: spur
+    400142: venttext
+    400144: wingleft
+    400146: wingright
+    2100000: Default
+    2100002: 'Material #100'
+    2100004: Blue Glass (glas
+    2100006: Reflection_Chrom
+    2300000: 105
+    2300002: 106
+    2300004: 107
+    2300006: 108
+    2300008: 110
+    2300010: 115
+    2300012: 116
+    2300014: 118
+    2300016: 135
+    2300018: 136
+    2300020: 154
+    2300022: 155
+    2300024: 158
+    2300026: 159
+    2300028: 160
+    2300030: 161
+    2300032: 177
+    2300034: 178
+    2300036: 190
+    2300038: 33
+    2300040: 34
+    2300042: 35
+    2300044: 73
+    2300046: 74
+    2300048: 75
+    2300050: AeroR
+    2300052: AreoL
+    2300054: Bpit
+    2300056: Canopy
+    2300058: Center Fus
+    2300060: cockpit
+    2300062: cockpitb
+    2300064: door1
+    2300066: door2
+    2300068: doorleft
+    2300070: doorright
+    2300072: ElderonL
+    2300074: ElderonR
+    2300076: ElevatorL
+    2300078: ElevatorR
+    2300080: ExaustL
+    2300082: ExustR
+    2300084: flap2R
+    2300086: flapL
+    2300088: Fpit
+    2300090: 'Fuel Tank '
+    2300092: Fuel Tank0
+    2300094: GPS
+    2300096: IntakeL
+    2300098: IntakeL in
+    2300100: IntakeR
+    2300102: IntakeR in
+    2300104: IntakeR Sc
+    2300106: ligh
+    2300108: lightleft
+    2300110: lightright
+    2300112: LPointLeft
+    2300114: Nose
+    2300116: Radio AF
+    2300118: Radio IF
+    2300120: RadioAnt3
+    2300122: RudderL
+    2300124: Ruddermai0
+    2300126: Ruddermain
+    2300128: RudderR
+    2300130: Shape_01
+    2300132: spur
+    2300134: venttext
+    2300136: wingleft
+    2300138: wingright
+    3300000: 105
+    3300002: 106
+    3300004: 107
+    3300006: 108
+    3300008: 110
+    3300010: 115
+    3300012: 116
+    3300014: 118
+    3300016: 135
+    3300018: 136
+    3300020: 154
+    3300022: 155
+    3300024: 158
+    3300026: 159
+    3300028: 160
+    3300030: 161
+    3300032: 177
+    3300034: 178
+    3300036: 190
+    3300038: 33
+    3300040: 34
+    3300042: 35
+    3300044: 73
+    3300046: 74
+    3300048: 75
+    3300050: AeroR
+    3300052: AreoL
+    3300054: Bpit
+    3300056: Canopy
+    3300058: Center Fus
+    3300060: cockpit
+    3300062: cockpitb
+    3300064: door1
+    3300066: door2
+    3300068: doorleft
+    3300070: doorright
+    3300072: ElderonL
+    3300074: ElderonR
+    3300076: ElevatorL
+    3300078: ElevatorR
+    3300080: ExaustL
+    3300082: ExustR
+    3300084: flap2R
+    3300086: flapL
+    3300088: Fpit
+    3300090: 'Fuel Tank '
+    3300092: Fuel Tank0
+    3300094: GPS
+    3300096: IntakeL
+    3300098: IntakeL in
+    3300100: IntakeR
+    3300102: IntakeR in
+    3300104: IntakeR Sc
+    3300106: ligh
+    3300108: lightleft
+    3300110: lightright
+    3300112: LPointLeft
+    3300114: Nose
+    3300116: Radio AF
+    3300118: Radio IF
+    3300120: RadioAnt3
+    3300122: RudderL
+    3300124: Ruddermai0
+    3300126: Ruddermain
+    3300128: RudderR
+    3300130: Shape_01
+    3300132: spur
+    3300134: venttext
+    3300136: wingleft
+    3300138: wingright
+    4300000: venttext
+    4300002: IntakeR Sc
+    4300004: 33
+    4300006: 34
+    4300008: 35
+    4300010: LPointLeft
+    4300012: 73
+    4300014: 74
+    4300016: 75
+    4300018: Canopy
+    4300020: door2
+    4300022: door1
+    4300024: 105
+    4300026: 106
+    4300028: 107
+    4300030: 108
+    4300032: RadioAnt3
+    4300034: 110
+    4300036: GPS
+    4300038: doorright
+    4300040: doorleft
+    4300042: lightleft
+    4300044: 115
+    4300046: 116
+    4300048: lightright
+    4300050: 118
+    4300052: ligh
+    4300054: spur
+    4300056: RudderR
+    4300058: RudderL
+    4300060: 135
+    4300062: 136
+    4300064: AreoL
+    4300066: AeroR
+    4300068: flapL
+    4300070: flap2R
+    4300072: 154
+    4300074: 155
+    4300076: 158
+    4300078: 159
+    4300080: 160
+    4300082: 161
+    4300084: Ruddermain
+    4300086: Ruddermai0
+    4300088: Radio IF
+    4300090: Radio AF
+    4300092: ExaustL
+    4300094: ExustR
+    4300096: ElevatorL
+    4300098: ElevatorR
+    4300100: Bpit
+    4300102: ElderonL
+    4300104: ElderonR
+    4300106: wingleft
+    4300108: wingright
+    4300110: 177
+    4300112: 178
+    4300114: IntakeR
+    4300116: IntakeL
+    4300118: Center Fus
+    4300120: Nose
+    4300122: 'Fuel Tank '
+    4300124: Fuel Tank0
+    4300126: Fpit
+    4300128: Shape_01
+    4300130: 190
+    4300132: IntakeL in
+    4300134: IntakeR in
+    4300136: cockpit
+    4300138: cockpitb
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
